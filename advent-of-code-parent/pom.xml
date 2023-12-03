@@ -13,6 +13,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>../advent-of-code-day1</module>
+        <module>../advent-of-code-day2</module>
     </modules>
 
     <properties>
