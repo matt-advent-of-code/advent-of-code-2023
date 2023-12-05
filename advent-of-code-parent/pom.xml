@@ -15,6 +15,7 @@
         <module>../advent-of-code-day1</module>
         <module>../advent-of-code-day2</module>
         <module>../advent-of-code-day3</module>
+        <module>../advent-of-code-day4</module>
     </modules>
 
     <properties>
